@@ -48,3 +48,9 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualization
+![WhatsApp Image 2024-10-30 at 5 45 01 AM (1)](https://github.com/user-attachments/assets/6cb398ec-c8ae-49b9-bfa1-5fa7fbe61810)
+
+
+
+
+
