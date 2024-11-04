@@ -46,4 +46,5 @@ expression used during your analysis;
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
-   
+
+### Data Visualization
